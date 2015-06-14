@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="BinarySearch_Iterative.cs" />
     <Compile Include="BinarySearch_Recursive.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="StringCompression.cs" />
     <Compile Include="Hello_World.cs" />
     <Compile Include="Insertion_Sort.cs" />
